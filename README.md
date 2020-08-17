@@ -2,6 +2,8 @@
 
 Draws graphs of network datasets using the D3.js library.
 
+<img src="./BoulderInternshipREADMEImage.png" alt="App Preview" width="66%" height="66%">
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation Summary
@@ -30,4 +32,4 @@ From this project I learned a lot about time management, as well as greatly buil
 
 As far as my learning of computer science research, this project really got me excited to ask questions about my data, and create a product that allowed me to answer those questions.  While modern computer science research I had been exposed to before centered around machine learning, this project showed me that computer science can be applied to many different areas of research (ex. sociology in the case of my L2K class dataset).  Overall, what I valued most out of this experience is the knowledge I gained of the scientific process and how to ask good questions.
 
-![App Preview](./BoulderInternshipREADMEImage.png)
+
